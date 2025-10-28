@@ -1,1 +1,1 @@
-# One_wire_EMULATOR
+# One_wire_EMULATOR_SLAVE
